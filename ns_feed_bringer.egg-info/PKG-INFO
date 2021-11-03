@@ -1,0 +1,75 @@
+Metadata-Version: 2.1
+Name: ns-feed-bringer
+Version: 1.0.0.dev1
+Summary: Alerts you when a new notification hits your NationStates feed.
+Home-page: https://github.com/tayjaybabee/ns_feed_bringer
+Author: Taylor-Jayde Blackstone
+Author-email: t.blackstone@inspyre.tech
+License: MIT license
+Keywords: ns_feed_bringer
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: >=3.6
+License-File: LICENSE
+License-File: AUTHORS.rst
+
+===============
+NS Feed Bringer
+===============
+
+
+.. image:: https://img.shields.io/pypi/v/ns_feed_bringer.svg
+        :target: https://pypi.python.org/pypi/ns_feed_bringer
+
+.. image:: https://img.shields.io/travis/tayjaybabee/ns_feed_bringer.svg
+        :target: https://travis-ci.com/tayjaybabee/ns_feed_bringer
+
+.. image:: https://readthedocs.org/projects/ns-feed-bringer/badge/?version=latest
+        :target: https://ns-feed-bringer.readthedocs.io/en/latest/?version=latest
+        :alt: Documentation Status
+
+
+.. image:: https://pyup.io/repos/github/tayjaybabee/ns_feed_bringer/shield.svg
+     :target: https://pyup.io/repos/github/tayjaybabee/ns_feed_bringer/
+     :alt: Updates
+
+
+
+Alerts you when a new notification hits your NationStates feed.
+
+
+* Free software: MIT license
+* Documentation: https://ns-feed-bringer.readthedocs.io.
+
+
+Features
+--------
+
+* TODO
+
+Credits
+-------
+
+This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
+
+.. _Cookiecutter: https://github.com/audreyr/cookiecutter
+.. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
+
+
+=======
+History
+=======
+
+1.0-dev1 (2021-11-02)
+------------------
+
+* First release on PyPI.
+
+
